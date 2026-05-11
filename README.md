@@ -1,20 +1,36 @@
-<<<<<<< HEAD
-# iyf-s10-week-08
-=======
-# React + Vite
+# Week {08}: {CommunityHub}
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Author
+- **Name:** Your Full Name
+- **GitHub:** [@MaisoriKitayama](https://github.com/MaisoriKitayama)
+- **Date:** Month Day, Year
 
-Currently, two official plugins are available:
+## Project Description
+Brief description of what you built and why.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- React
 
-## React Compiler
+## Features
+- Feature 1
+- Feature 2
+- Feature 3
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## How to Run
+1. Clone this repository
+2. Run `npm install` then `npm start`
 
-## Expanding the ESLint configuration
+## Lessons Learned
+What did you learn while building this project?
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 3756f47 (React Fundamentals)
+## Challenges Faced
+What problems did you encounter and how did you solve them?
+
+## Screenshots (optional)
+![Screenshot description](path/to/screenshot.png)
+
+## Live Demo (if deployed)
+[View Live Demo](https://your-deployed-url.com)
